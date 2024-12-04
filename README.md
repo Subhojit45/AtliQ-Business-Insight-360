@@ -4,11 +4,8 @@
 
 AtliQ Hardware has been growing rapidly in recent years, and they've decided to implement data analytics Reporting using Power BI in their company for the first time. Their goal is to surpass their competitors in the market and make growth using data-driven decisions. This project aims to provide data-driven answers to stakeholder questions across various aspects such as finance, sales, marketing, and supply chain.
 
-I worked on this project by following the Codebasics Power BI Course. [Check out the course here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project).
-
 [Live Report Link.pbix](https://app.powerbi.com/view?r=eyJrIjoiYWIwN2VkNGMtYjVmMC00MjczLWI4ODQtNjE2OTlkMjVmMmI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-<iframe title="360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWIwN2VkNGMtYjVmMC00MjczLWI4ODQtNjE2OTlkMjVmMmI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 ## Tech and Softwares used
 
 - SQL
@@ -111,7 +108,6 @@ Based on the received mock-ups, the team started designing the visuals and creat
 
 The Home view provides buttons for navigating to specific pages:
 
-- Info
 - Finance View
 - Sales View
 - Marketing View
@@ -120,13 +116,6 @@ The Home view provides buttons for navigating to specific pages:
 - Products
 - Support
 
-## Overall Report
-
-![Overall Report](https:.gif)
-
-## Info Page
-
-![Info Page]([https:.gif](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Finance%20View.png))
 
 ## Finance View
 
@@ -152,7 +141,7 @@ The Home view provides buttons for navigating to specific pages:
 
 ![Products.png](https://github.com/Subhojit45/AtliQ-Business-Insight-360/blob/main/Report%20%20Snippets/Products.png)
 
-You can find the full report file here: [Report](https://github.com/Subhojit45/Business-Insight-360/blob/main/360.pbix)
+You can find the full report file here: [Report](https://app.powerbi.com/view?r=eyJrIjoiYWIwN2VkNGMtYjVmMC00MjczLWI4ODQtNjE2OTlkMjVmMmI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Project Outcome
 
